@@ -42,12 +42,6 @@ justify-content: center;
     gap: 500px;
 }
 
-div {
-    max-height: 80px;
-    overflow-y: scroll;
-    padding-right:10px;
-}
-
 .descricao {
     padding:0;
     text-align: center;
