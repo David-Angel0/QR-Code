@@ -20,7 +20,7 @@ justify-content: center;
 
 .cartao-qrcode {
     width: 250px;
-    height: 370px;
+    height: 390px;
     padding:10px;
     display: flex;
     flex-direction: column;
