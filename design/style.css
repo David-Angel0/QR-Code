@@ -42,7 +42,8 @@ justify-content: center;
     gap: 500px;
 }
 
-.divzao {
+.div {
+    max-height: 80px;
     overflow-y: scroll;
     padding-right:10px;
 }
