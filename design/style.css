@@ -42,7 +42,7 @@ justify-content: center;
     gap: 500px;
 }
 
-.div {
+div {
     max-height: 80px;
     overflow-y: scroll;
     padding-right:10px;
