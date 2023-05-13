@@ -43,7 +43,7 @@ justify-content: center;
 }
 
 .divzao {
-    overflow-y:auto;
+    overflow-y: scroll;
     padding-right:10px;
 }
 
