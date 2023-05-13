@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    padding: 20px;
+    padding: 0;
     margin: 0;
 }
 
@@ -20,12 +20,12 @@ justify-content: center;
 
 .cartao-qrcode {
     width: 250px;
-    height: 390px;
+    height: 360px;
     padding:10px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 75px;
+    margin: 90px;
     border-radius: 20px;
     transition: 0.2s ease-in-out;
     background-color:hsl(0, 0%, 100%);
