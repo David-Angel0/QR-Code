@@ -1,6 +1,6 @@
 body {
-    background: rgb(63,251,141);
-background: radial-gradient(circle, rgba(63,251,141,1) 0%, rgba(70,187,252,1) 100%);
+    background: rgb(72,175,232);
+    background: radial-gradient(circle, rgba(72,175,232,1) 0%, rgba(130,213,164,1) 100%);
     max-width: 1440px;
     margin: 0 auto; 
     font-family: 'Outfit', sans-serif;
